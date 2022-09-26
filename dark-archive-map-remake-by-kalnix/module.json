@@ -1,0 +1,35 @@
+{
+    "id": "pf2e-example",
+    "title": "PF2e Example",
+    "description": "An example module.",
+    "url": "https://github.com/Kalnix/dark-archives-map-remake-by-kalnix",
+    "version": "1.0",
+    "authors": [
+      {"name": "Kalnix"}
+    ],
+    "compatibility": {
+      "minimum": "10.285",
+      "verified": "10.285"
+    },
+    "relationships": {
+      "systems": [{
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "4.0.6"
+        }
+      }]
+    },
+    "packs": [
+        {
+          "label": "Dark Archive Map Remakes By Kalnix",
+          "type": "Adventure",
+          "name": "dark-archive-map-remakes-by-kalnix",
+          "path": "packs/dark-archive-map-remakes-by-kalnix.db",
+          "system": "pf2e",
+          "private": false,
+          "flags": {}
+        }
+      ]
+  }
