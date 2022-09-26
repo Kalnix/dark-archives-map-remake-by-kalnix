@@ -31,8 +31,8 @@
           "private": false,
           "flags": {}
         }
-      ]
-     "url": "https://github.com/YourName/PF2e-Example",
+      ],
+    "url": "https://github.com/YourName/PF2e-Example",
     "manifest": "https://raw.githubusercontent.com/Kalnix/dark-archives-map-remake-by-kalnix/master/module.json",
     "download": "https://github.com/Kalnix/dark-archives-map-remake-by-kalnix/archive/refs/heads/main.zip"
   }
