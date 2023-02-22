@@ -1,5 +1,7 @@
 # dark-archives-map-remake-by-kalnix
-FoundryVTT module for Dark Archive Map Remakes
+**Version 1.2** Completely remade the Beast of Birchfrost maps and added shadows to most others to make them not look as flat.
+
+**FoundryVTT module for Dark Archive Map Remakes**
 
 This is a map remake of the adventures from the Dark Archive souce book created by Paizo. You can buy the book here https://paizo.com/products/btq02arq?Pathfinder-Dark-Archive as well as find the adventue In Darkness which was released as the reward for an ARG. It does not have any of the content besides remade maps, you will need to own the book to be able to run the adventures.
 
