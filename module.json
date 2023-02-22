@@ -1,38 +1,42 @@
 {
-    "id": "dark-archives-map-remakes-by-kalnix",
-    "title": "Dark Archives Map Remakes by Kalnix",
-    "description": "Map remakes for all of the Dark Archive adventures.",
-    "url": "https://github.com/Kalnix/dark-archives-map-remake-by-kalnix",
-    "version": "1.1",
-    "authors": [
-      {"name": "Kalnix"}
-    ],
-    "compatibility": {
-      "minimum": "10.285",
-      "verified": "10.285"
-    },
-    "relationships": {
-      "systems": [{
+  "id": "dark-archives-map-remakes-by-kalnix",
+  "title": "Dark Archives Map Remakes by Kalnix",
+  "description": "Map remakes for all of the Dark Archive adventures.",
+  "url": "https://github.com/Kalnix/dark-archives-map-remake-by-kalnix",
+  "version": "1.2",
+  "authors": [
+    {
+      "name": "Kalnix",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10.285",
+    "verified": "10.291"
+  },
+  "relationships": {
+    "systems": [
+      {
         "id": "pf2e",
         "type": "system",
         "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
         "compatibility": {
           "minimum": "4.0.6"
         }
-      }]
-    },
-    "packs": [
-        {
-          "label": "Dark Archive Map Remakes By Kalnix",
-          "type": "Adventure",
-          "name": "dark-archive-map-remakes-by-kalnix",
-          "path": "packs/dark-archive-map-remakes-by-kalnix.db",
-          "system": "pf2e",
-          "private": false,
-          "flags": {}
-        }
-      ],
-    "url": "https://github.com/Kalnix/dark-archives-map-remake-by-kalnix",
-    "manifest": "https://raw.githubusercontent.com/Kalnix/dark-archives-map-remake-by-kalnix/master/module.json",
-    "download": "https://github.com/Kalnix/dark-archives-map-remake-by-kalnix/archive/refs/heads/main.zip"
-  }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "label": "Dark Archive Map Remakes By Kalnix",
+      "type": "Adventure",
+      "name": "dark-archive-map-remakes-by-kalnix",
+      "path": "packs/dark-archive-map-remakes-by-kalnix.db",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/Kalnix/dark-archives-map-remake-by-kalnix/master/module.json",
+  "download": "https://github.com/Kalnix/dark-archives-map-remake-by-kalnix/archive/refs/heads/main.zip"
+}
