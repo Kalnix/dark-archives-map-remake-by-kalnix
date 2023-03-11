@@ -1,4 +1,6 @@
 # dark-archives-map-remake-by-kalnix
+**Version 1.2.3** More changes to maps, mainly adventures 1 and 2 as well as updated walling and lighting for adventures 1 and 2.
+
 **Version 1.2.2** More changes to maps, mainly adventures 2 and 3 as well as updated walling for adventure 2 as there were quite a few incorrect walls.
 
 **Version 1.2.1** Slight tweaks to some maps and updates to walls and lighting.
